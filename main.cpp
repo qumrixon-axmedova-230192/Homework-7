@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-int multiply(int x, int y) {
+int multiply (int x, int y) {
     // Base case: if one of the numbers is 0, return 0
     if (x == 0 || y == 0) {
     }   return 0;
